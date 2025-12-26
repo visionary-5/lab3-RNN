@@ -212,19 +212,6 @@ dalpha = dalpha_sigmoid * α_sigmoid * (1 - α_sigmoid)
 - [ ] **在线学习支持**: 支持增量学习和实时更新
 - [ ] **更多数据集验证**: 在不同市场和资产类别上验证结论的普适性
 
-## 引用
-
-如果您在研究中使用了本项目，请引用：
-
-```bibtex
-@misc{mamba-gru-2024,
-  title={Mamba-GRU: A Hybrid Architecture for Financial Time Series Forecasting},
-  author={Aura},
-  year={2025},
-  howpublished={\url{https://https://github.com/visionary-5/lab3-RNN}}
-}
-```
-
 ## 许可证
 
 MIT License
